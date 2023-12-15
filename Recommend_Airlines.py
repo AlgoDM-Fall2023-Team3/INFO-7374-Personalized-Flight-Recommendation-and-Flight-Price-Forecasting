@@ -136,7 +136,8 @@ def generate_flight_recommendations(user_id, price_range, date_range, source, de
       else:
         return pd.DataFrame(filtered_data)
 
-st.set_page_config(layout="wide")
+st.set_page_config(page_title = "Recommend Airline",
+                   layout="wide")
 st.title('Personalized Flight Recommendation System')
 
 tabs = st.tabs(["New User", "Existing User"])
