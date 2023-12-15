@@ -1,0 +1,8 @@
+streamlit
+databricks-sql
+streamlit-aggrid==0.0.4
+plotly
+pandas
+numpy
+datetime
+statsmodels
