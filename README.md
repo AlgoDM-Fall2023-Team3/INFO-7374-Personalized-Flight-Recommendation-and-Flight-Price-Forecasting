@@ -17,11 +17,11 @@ Streamlit Interface: User-friendly applications built with Streamlit facilitate 
 
 
 **How to Use**
-1. Clone Repository:
+1. Clone Repository
 2. Install Dependencies:
     pip install -r requirements.txt
 3. Run Streamlit App:
-streamlit run app.py
+    streamlit run app.py
 
 **Future Enhancements**
 Implement user authentication for enhanced personalization.
