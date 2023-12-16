@@ -24,9 +24,11 @@ Streamlit Interface: User-friendly applications built with Streamlit facilitate 
     streamlit run app.py
 
 **Future Enhancements**
-Implement user authentication for enhanced personalization.
-Explore multi-channel data scraping for comprehensive coverage.
-Integrate real-time event data for context-aware recommendations.
+
+1. Implement user authentication for enhanced personalization.
+2. Explore multi-channel data scraping for comprehensive coverage.
+3. Integrate real-time event data for context-aware recommendations.
 
 Deployed Streamlit App: https://recommendairlinespy-e8cmgswrjdpne6smz5ohni.streamlit.app/Forecast
+
 CodeLab Link: https://codelabs-preview.appspot.com/?file_id=1h7MSi2DCUrD8DkKVRwibJ3Vu-H-G9kDzjt9WZQ-5i-s#0
